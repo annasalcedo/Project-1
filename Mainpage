@@ -1,0 +1,32 @@
+<!doctype>
+<html>
+  <link rel="stylesheet" href="project1.css">
+  <head>
+    <title>Boiler Social</title>
+  </head>
+
+    <header>
+      <div class="header">
+        <a href="project1.html">
+            <img src="logo.png" alt="boilersocial" width=160px height=90px>
+        </a>
+        <div class="header-right">
+        </div>
+      <input type="text" placeholder="Search..">
+
+    </header>
+
+    <body>
+      <h6> FIND YOUR FUTURE BOILERMAKERS! </h6>
+    </body>
+
+    <section id= "buttons">
+        <a href="events.html" class="feature" >Join an Event</a>
+        <a href="createevents.html" class ="button1">Create an Event</a>
+    </section>
+
+
+
+
+
+</html>
