@@ -1,0 +1,70 @@
+header div{
+  padding: 30px;
+  text-align: left;
+  background: white3;
+  color: white;
+  font-size: 30px;
+  }
+  header input{
+    align: right;
+  }
+  div {
+    background-color: white;
+    padding:10px;
+  }
+
+  section#header input{
+    align-items:right;
+  }
+
+    body {
+      background-image: url(purdue.jpeg);
+      }
+
+
+    h6 {
+      text-align: center;
+      text-transform: uppercase;
+      color: white;
+      }
+
+    section#buttons a{
+        background-color: #6DB8BB;
+        border: none;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 40px;
+      }
+
+
+
+.eventBlock{
+  background-color: #C4C4C4;
+  height: 460px;
+  width: 270px;
+}
+
+.eventBlock img{
+  position: relative;
+  left: auto;
+}
+
+.eventBlock ul li, #filteredResults ul li{
+  background-color: #869684;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  padding: 5px 5px;
+  margin: 0px 5px;
+}
+
+.joinButton{
+  border: none;
+  background-color: #6DB8BB;
+  text-align: center;
+  padding: 10px 10px;
+}
